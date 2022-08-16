@@ -1,4 +1,4 @@
-## Junkil Park
+# Junkil Park
 
 Research Engineer at [Aptos Labs](https://aptoslabs.com/).
 
